@@ -1,12 +1,8 @@
 <html>
 <head>
-	<title>My first HTML</title>
+<title>My first JSP</title>
 </head>
 <body>
-<form method="post">
-	Name: <input type="text" name="name">
-	Password: <input type="password" name="password">
-	<input type="submit">
-</form>
+<h1>Hey!! This is my first JSP! </h1>
 </body>
 </html>
